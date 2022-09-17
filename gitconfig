@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = louis.rouby1@gmail.com
+	name = Louis ROUBY
